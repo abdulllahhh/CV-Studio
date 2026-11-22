@@ -1,0 +1,3 @@
+streamlit>=1.50
+weasyprint>=63
+pymupdf>=1.24
